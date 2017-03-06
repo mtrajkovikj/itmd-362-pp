@@ -186,3 +186,8 @@ html {
  label {
  	display:block;
  }
+ input {
+ 	box-sizing: border-box;
+ 	display: block;
+ 	line-height: inherit;
+ }
