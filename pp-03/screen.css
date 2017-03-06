@@ -178,3 +178,7 @@ textarea {
   font: inherit; /* 2 */
 }
 /*normalize.css form styles end*/
+
+html { 
+	font-size: 1.125em;
+ }
