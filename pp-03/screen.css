@@ -182,6 +182,7 @@ textarea {
 html { 
 	font-size: 1.125em; /*18 / 16 px*/
 	line-height: 1.2em; /* 120% ~ 22px*/
+	padding: 1.2em;
  }
  label {
  	display:block;
@@ -190,4 +191,9 @@ html {
  	box-sizing: border-box;
  	display: block;
  	line-height: inherit;
+ 	border: 0;
+ 	background-color: #dddddd;
+ }
+ li {
+ 	padding-bottom: 1.2em;
  }
