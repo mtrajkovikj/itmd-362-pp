@@ -195,11 +195,14 @@ html {
   font-size: 1.375em; /* 22px */
   line-height: 1.182em; /* 26px / ~ 120% */
   padding: 1.182em; /* 26px / ~ 120% */
+  font-family: 'Cuprum', sans-serif;
   text-rendering: optimizeLegibility;
+
 }
 
 label {
   display: block;
+  font-family: Candara,Calibri,Segoe,"Segoe UI",Optima,Arial,sans-serif;
 }
 input {
   border:0;
