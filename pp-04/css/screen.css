@@ -201,6 +201,10 @@ html {
 label {
   display: block;
 }
+input {
+  border:0;
+  background-color: #dddddd;
+}
 
 /* ===== LAYOUT STYLES ====== */
 
