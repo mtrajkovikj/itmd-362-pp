@@ -224,7 +224,9 @@ p {
   width: 100%;
   margin-bottom: 1.375em;
   }
-
+#input-age-verification {
+  padding-bottom: 1.182em;
+}
 /* ===== STATE STYLES ======= */
 .wf-active h1 {
   font-weight: 600;
