@@ -219,9 +219,13 @@ p {
 #email, #submit {
   width: 100%;
   margin-bottom: 1.375em;
+  }
 
 /* ===== STATE STYLES ======= */
 .wf-active h1 {
   font-weight: 600;
+}
+input[type="checkbox"] + label {
+  display: inline;
 }
 
