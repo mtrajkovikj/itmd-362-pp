@@ -197,21 +197,31 @@ html {
   padding: 1.182em; /* 26px / ~ 120% */
   font-family: 'Cuprum', sans-serif;
   text-rendering: optimizeLegibility;
-
 }
 
 label {
   display: block;
   font-family: Candara,Calibri,Segoe,"Segoe UI",Optima,Arial,sans-serif;
 }
+
 input {
   border:0;
   background-color: #dddddd;
 }
 
+p {
+  margin-bottom: 1.375em;
+}
+
 /* ===== LAYOUT STYLES ====== */
 
 /* ===== MODULAR STYLES ===== */
+#email, #submit {
+  width: 100%;
+  margin-bottom: 1.375em;
 
 /* ===== STATE STYLES ======= */
+.wf-active h1 {
+  font-weight: 600;
+}
 
