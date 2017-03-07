@@ -209,6 +209,8 @@ input {
   background-color: #dddddd;
   padding: 1.375em;
   box-sizing: border-box;
+  font-family: inherit;
+  line-height: inherit;
 }
 
 p {
