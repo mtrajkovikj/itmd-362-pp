@@ -207,6 +207,8 @@ label {
 input {
   border:0;
   background-color: #dddddd;
+  padding: 1.375em;
+  box-sizing: border-box;
 }
 
 p {
