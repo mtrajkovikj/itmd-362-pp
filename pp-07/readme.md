@@ -32,5 +32,5 @@ Small commits to your Production Problems repository that include:
 * HCI Guidline Two (URL): https://developer.apple.com/ios/human-interface-guidelines/interaction/data-entry/ (DATA ENTRY)
 * How you implemented it in your sketch: The login button will appear after the username and password values have been entered. (Enable advancement only after collecting required values.) Also "username" and "password" hints in the corresponding fields.
 
-* HCI Guidline Three (URL):
-* How you implemented it in your sketch:
+* HCI Guidline Three (URL): https://msdn.microsoft.com/library/windows/desktop/dn742399.aspx (LINKS)
+* How you implemented it in your sketch: By adding a "Forgot Password?" link.
