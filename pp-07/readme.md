@@ -29,8 +29,8 @@ Small commits to your Production Problems repository that include:
 * HCI Guidline One (URL): https://developer.apple.com/ios/human-interface-guidelines/visual-design/branding/ (BRANDING)
 * How you implemented it in your sketch: By using the logo as well as the text (in the font the school usually uses and is recognized by).
 
-* HCI Guidline Two (URL):
-* How you implemented it in your sketch:
+* HCI Guidline Two (URL): https://developer.apple.com/ios/human-interface-guidelines/interaction/data-entry/ (DATA ENTRY)
+* How you implemented it in your sketch: The login button will appear after the username and password values have been entered. (Enable advancement only after collecting required values.) Also "username" and "password" hints in the corresponding fields.
 
 * HCI Guidline Three (URL):
 * How you implemented it in your sketch:
