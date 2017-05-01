@@ -8,18 +8,18 @@ Usability checklists are typical, and sometimes mindless, tools/magic tricks use
 
 * URLs for the usability checklists you've found:
 
-1.
-2.
+1. https://wsuwp-uploads.s3.amazonaws.com/uploads/sites/7/2015/08/25-point-usability-checklist-final.pdf
+2. http://uxchecklist.github.io/
 
 * Your own condensed, ten-item must-have usability checklist:
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. All major parts accessible from the home page.
+2. Font size is easy to read.
+3. Responsive mobile/touch design.
+4. Consistent color palette and font.
+5. Related topics are located together (grouped/submenu etc.).
+6. Build prototypes and brainstorm.
+7. Have meaningful URLs.
+8. Have users test the site, give feedback and fix errors accordingly (if needed).
+9. Users can return to the home page easily.
+10. Main navigation should be easily recognizable.
