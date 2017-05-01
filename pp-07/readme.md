@@ -26,8 +26,8 @@ Small commits to your Production Problems repository that include:
 2) an explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-* HCI Guidline One (URL):
-* How you implemented it in your sketch:
+* HCI Guidline One (URL): https://developer.apple.com/ios/human-interface-guidelines/visual-design/branding/ (BRANDING)
+* How you implemented it in your sketch: By using the logo as well as the text (in the font the school usually uses and is recognized by).
 
 * HCI Guidline Two (URL):
 * How you implemented it in your sketch:
